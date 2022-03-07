@@ -1,6 +1,6 @@
 {
 	"name": "Cardboard",
-	"version": "1.11.0-NoVulkan",
+	"version": "1.12.0-NoVulkan",
 	"libraryName": "cardboard_api",
 	"displays": [
 		{
